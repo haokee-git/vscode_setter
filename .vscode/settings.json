@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Maple Mono, PingFang SC",
+  "editor.wordWrap": "bounded",  // or  on off wordWrapColumn
+  "editor.fontSize": 14,
+  "editor.fontWeight": 360,
+  "editor.lineHeight": 22,
+  "editor.fontLigatures": true,
+  "debug.console.fontFamily": "Maple Mono, PingFang SC",
+  "debug.console.fontSize": 14,
+  "debug.console.lineHeight": 22
+}
